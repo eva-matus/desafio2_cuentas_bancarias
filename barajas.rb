@@ -16,7 +16,7 @@
 # Crear el método repartir mano que devolverá un arreglo con las primeras 5 cartas de la baraja.
 # (1punto)
 
-require_relative 'Carta'
+require_relative 'carta'
 
 class Baraja
     attr_accessor :cartas
